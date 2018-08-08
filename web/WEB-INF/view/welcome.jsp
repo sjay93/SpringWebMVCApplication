@@ -13,5 +13,6 @@
     <body>
         <h1>Spring MVC Application</h1>
         ${msg}
+        ${msg1}
     </body>
 </html>
