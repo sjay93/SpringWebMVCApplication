@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="SpringWebMVCApplication" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring MVC-3.2.18.RELEASE" />
+          <element id="library" level="application" name="Spring" />
+        </element>
       </element>
     </root>
   </artifact>

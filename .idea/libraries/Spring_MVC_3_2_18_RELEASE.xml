@@ -2,11 +2,29 @@
   <library name="Spring MVC-3.2.18.RELEASE" type="spring-mvc">
     <properties version="3.2.18.RELEASE" />
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/spring-websocket-3.2.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/spring-web-3.2.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-3.2.18.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/cglib-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/log4j-1.2-api-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/org-apache-commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-aop-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-asm-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-aspects-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-beans-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-context-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-context-support-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-core-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-expression-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-instrument-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-instrument-tomcat-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-jdbc-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-tx-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-web-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/spring-webmvc-3.0.6.RELEASE.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/log4j-1.2-api-2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/spring 3.0.6-lib/log4j-1.2-api-2.5-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
